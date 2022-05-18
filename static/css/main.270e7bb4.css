@@ -1,0 +1,2 @@
+.container__img{display:none}.container__img.active{background-color:#d3d3d3;display:block;position:relative}.title__img{background-color:#f2f1f1;position:absolute}.container__img img{display:block;margin:0 auto}.description__img{background:hsla(0,0%,95%,.5);bottom:0;margin:0;position:absolute}.container__btn{display:flex;justify-content:center}.numbers__btn{display:inline-block}.btn__refresh{position:absolute;right:0}.btn__active{background-color:#14ae14}button{cursor:pointer}
+/*# sourceMappingURL=main.270e7bb4.css.map*/
