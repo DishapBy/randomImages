@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from "react";
-import {getImagesData} from "../../services/services";
 import axios from "axios";
 import ImageItem from "../imageItem/ImageItem";
 import './styles.css'
